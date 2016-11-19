@@ -7,14 +7,14 @@ if( !defined( 'ABSPATH' ) )
  * Plugin Name: WP Views Counter
  * Plugin URI: https://krigus.com/
  * Description: Add counter to each post in your blog or site
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Krigus
  * Text Domain: pvc
  * Domain Path: /languages
  * License: GPLv2 or later
  */
 
-define( 'PVC_VERSION', '1.0.0' );
+define( 'PVC_VERSION', '1.0.1' );
 define( 'PVC__PLUGIN_DIR', plugin_dir_path( __FILE__ ) );
 define( 'PVC__PLUGIN_URL', plugin_dir_url( __FILE__ ) );
 
