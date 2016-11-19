@@ -49,6 +49,9 @@ Frequently Asked Questions
 = 1.0 =
 First version
 
+= 1.0.1 =
+Ready for internatiolize
+
 == Upgrade Notice ==
 
 = 1.0 =
