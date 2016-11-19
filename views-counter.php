@@ -9,6 +9,8 @@ if( !defined( 'ABSPATH' ) )
  * Description: Add counter to each post in your blog or site
  * Version: 1.0.0
  * Author: Krigus
+ * Text Domain: pvc
+ * Domain Path: /languages
  * License: GPLv2 or later
  */
 
